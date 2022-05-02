@@ -12,5 +12,6 @@ Client-server web application on SpringBoot, using SQLite database, Google API s
 
     Weather data is obtained using opeweathermapAPI.
 
-    Application shows the air distance between cities within in a radius of 1000 km (this radius can be changed in app.properties).
+    Application shows the air distance between cities within in a radius of 1000 km 
+    (this radius can be changed in app.properties).
 
